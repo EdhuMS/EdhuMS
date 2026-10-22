@@ -1,73 +1,173 @@
-<!-- Perfil: github.com/EdhuMS | Diseño y recursos visuales propios -->
+<!-- Perfil: github.com/EdhuMS -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img src="./assets/hero-light.svg" alt="Edhu Macedo, estudiante de Ingeniería de Sistemas e Informática. El límite de lo posible siempre merece una segunda pregunta." width="100%">
-  </picture>
 
-  <p>
-    <a href="https://www.linkedin.com/in/edhu-ms/">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:edhums10@gmail.com">Correo</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/EdhuMS?tab=repositories">Repositorios</a>
-  </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-light.svg" alt="Edhu Macedo - El límite de lo posible siempre merece una segunda pregunta." width="100%">
+</picture>
+
+<br>
+
+<a href="https://www.linkedin.com/in/edhu-ms/">
+  <img src="https://img.shields.io/badge/LinkedIn-Edhu%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:edhums10@gmail.com">
+  <img src="https://img.shields.io/badge/Correo-edhums10%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
+</a>
+<a href="https://github.com/EdhuMS?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositorios-GitHub-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
+</a>
+
 </div>
 
-### Más allá del código
+---
 
-Soy **Edhu Macedo**, estudiante de **Ingeniería de Sistemas e Informática**. Me gusta encontrar formas de simplificar tareas y procesos mediante soluciones digitales: observar lo que existe, detectar problemas y preguntarme cómo podría funcionar mejor.
+## 👨‍💻 Sobre mí
 
-Disfruto experimentar, aprender de los errores y revisar mis propias decisiones. Soy detallista con lo que construyo; no me basta con que algo funcione si todavía hay oportunidades para hacerlo más claro, mantenible o útil.
+Soy **Edhu Macedo**, estudiante de **Ingeniería de Sistemas e Informática**.  
+Me interesa **simplificar procesos, detectar oportunidades de mejora y construir soluciones tecnológicas que tengan sentido en la práctica**.
 
-### Cómo pienso y construyo
+Disfruto cuestionar lo establecido, experimentar con nuevas herramientas y refinar lo que construyo.  
+No me gusta dejar las cosas a medias: si algo puede mejorar, probablemente volveré a revisarlo.
+
+> **“El límite de lo posible siempre merece una segunda pregunta.”**
+
+---
+
+## 🧠 Cómo pienso y construyo
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/process-mobile-dark.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/process-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/process-desktop-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/process-desktop-light.svg">
-  <img src="./assets/process-desktop-light.svg" alt="Mi proceso de desarrollo: explorar, entender, diseñar, construir y mejorar. Un ciclo que se repite." width="100%">
+  <img src="./assets/process-desktop-light.svg" alt="Proceso de trabajo: explorar, entender, diseñar, construir y mejorar." width="100%">
 </picture>
 
-Antes de escribir código, prefiero **entender el problema, definir el alcance y elegir un stack que tenga sentido**. Después, procuro mantener una arquitectura organizada, decisiones justificadas y espacio para probar e iterar. Para mí, desarrollar es también cuestionar lo que ya construí.
+Antes de programar, me gusta **entender el problema, definir el alcance y elegir el stack adecuado**.  
+Después, procuro trabajar con una base clara: **organización, mantenibilidad, escalabilidad y mejora continua**.
 
-### Con qué construyo
+---
 
-**Ecosistema principal**  
-`JavaScript` · `TypeScript` · `Node.js` · `React` · `Next.js` · `NestJS` · `Tailwind CSS`
+## ⚙️ Stack principal
 
-**Otros entornos con los que he trabajado**
+<div align="center">
 
-- **Web e interfaces:** HTML5, CSS, Sass/SCSS, Angular, Vue, Astro, Vite y Bootstrap.
-- **Backend y móvil:** Express, Java con Spring Boot, Python con Django/FastAPI, React Native y Kotlin.
-- **Datos e infraestructura:** PostgreSQL, MySQL, SQL Server, MongoDB, Supabase, Cloudflare, Vercel y Render.
-- **Diseño y colaboración:** Git y Figma.
+### Lenguajes y tecnologías base
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python,kotlin" alt="Lenguajes" />
+</p>
 
-No considero que todas las herramientas resuelvan los mismos problemas. Me interesa entender **cuándo utilizar cada una y por qué**.
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,astro,vite,tailwind,bootstrap,sass" alt="Frontend" />
+</p>
 
-### Lo que estoy construyendo
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,fastapi" alt="Backend" />
+</p>
 
-Trabajo en **proyectos tecnológicos de distintos sectores y contextos**: desde soluciones de gestión empresarial hasta plataformas digitales y prototipos orientados a simplificar procesos concretos.
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,kotlin" alt="Mobile" />
+</p>
 
-Parte de ese trabajo, como el desarrollo de sistemas internos de gestión, se mantiene en **repositorios privados**. Aquí comparto lo que puedo hacer público, junto con proyectos que reflejan mi aprendizaje y experimentación.
+### Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Bases de datos" />
+  <img src="https://img.shields.io/badge/SQL%20Server-0f172a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQL-0891B2?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+</p>
 
-También utilizo **ChatGPT, Codex y OpenCode** para acelerar tareas de desarrollo. Los veo como herramientas que requieren dirección: la planificación, las decisiones técnicas y la revisión del resultado siguen siendo fundamentales.
+### Herramientas y despliegue
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,supabase,cloudflare,vercel,render" alt="Herramientas" />
+</p>
 
-### En qué quiero seguir mejorando
+</div>
 
-Actualmente pongo especial atención en **arquitectura de software, testing y rendimiento**. Mi camino profesional apunta a adquirir experiencia mediante prácticas, crecer como desarrollador y freelancer y, con el tiempo, crear mi propia consultoría tecnológica.
+---
+
+## 🚀 Lo que hago
+
+- Desarrollo **soluciones tecnológicas para distintos sectores y contextos**.
+- Trabajo con enfoque en **arquitectura, organización del código y escalabilidad**.
+- Participo en proyectos donde el objetivo no es solo construir, sino también **mejorar procesos reales**.
+- Parte de mi trabajo se encuentra en **repositorios privados**, especialmente soluciones internas y sistemas de gestión.
+
+---
+
+## 🤖 IA como herramienta de desarrollo
+
+Utilizo herramientas como **ChatGPT, Codex y OpenCode** para acelerar análisis, desarrollo y prototipado.
+
+Pero no las veo como sustituto del criterio técnico.  
+Para mí, lo importante sigue siendo:
+
+- definir bien el problema,
+- tomar buenas decisiones de arquitectura,
+- revisar el resultado,
+- y mantener control sobre la solución final.
+
+---
+
+## 📈 En qué estoy enfocándome ahora
+
+- 🏗️ **Arquitectura de software**
+- 🧪 **Testing**
+- ⚡ **Rendimiento y optimización**
+- 📱 **Desarrollo móvil**
+- 🧩 **Construcción de soluciones más mantenibles y escalables**
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EdhuMS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdhuMS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top Langs" />
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EdhuMS&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 Hacia dónde voy
+
+Mi camino profesional es claro:
+
+**prácticas profesionales → desarrollo / freelancing → consultoría tecnológica propia**
+
+Quiero seguir creciendo como desarrollador, construyendo soluciones cada vez más sólidas, útiles y mejor pensadas.
+
+---
+
+## 📬 Conecta conmigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/edhu-ms/">
+  <img src="https://img.shields.io/badge/LinkedIn-Edhu%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:edhums10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-edhums10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://github.com/EdhuMS?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <p><strong>Siempre hay una mejor pregunta, otra perspectiva o una nueva forma de construir.</strong></p>
-  <p>
-    <a href="https://www.linkedin.com/in/edhu-ms/">Conectemos en LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:edhums10@gmail.com">Escríbeme</a>
-  </p>
-  <sub>Edhu Macedo · Ingeniería de Sistemas e Informática · Perú</sub>
+  <sub><strong>Edhu Macedo</strong> · Ingeniería de Sistemas e Informática · Perú</sub>
 </div>

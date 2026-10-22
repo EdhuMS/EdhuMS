@@ -1,109 +1,73 @@
+<!-- Perfil: github.com/EdhuMS | Diseño y recursos visuales propios -->
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=700&lines=Hola,+soy+Edhu+Macedo+Salas+%F0%9F%91%8B;Ing.+de+Sistemas+en+proceso...;Futuro+Fullstack+Developer+(JS);Creador+de+SimpleQuickTools.com" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img src="./assets/hero-light.svg" alt="Edhu Macedo, estudiante de Ingeniería de Sistemas e Informática. El límite de lo posible siempre merece una segunda pregunta." width="100%">
+  </picture>
+
+  <p>
+    <a href="https://www.linkedin.com/in/edhu-ms/">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:edhums10@gmail.com">Correo</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/EdhuMS?tab=repositories">Repositorios</a>
+  </p>
 </div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=EdhuMS&label=Vistas&color=20C20E&style=for-the-badge" alt="edhu-views" />
-</p>
+### Más allá del código
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Sobre%20mí&fontSize=30&fontColor=ffffff&fontAlign=50"/>
+Soy **Edhu Macedo**, estudiante de **Ingeniería de Sistemas e Informática**. Me gusta encontrar formas de simplificar tareas y procesos mediante soluciones digitales: observar lo que existe, detectar problemas y preguntarme cómo podría funcionar mejor.
 
-<table>
-  <tr>
-    <td width="60%" valign="center">
-      <br>
-      Soy un estudiante universitario apasionado por la tecnología. Mi meta es dominar el stack JavaScript para construir aplicaciones web completas y escalables.
-      <br><br>
-      <ul>
-        <li>🔭 Actualmente balanceando la universidad y escalando mi proyecto: <b><a href="https://simplequicktools.com">SimpleQuickTools.com</a></b> (¡échale un vistazo!).</li>
-        <li>🌱 Profundizando arquitecturas en <b>React & Next.js</b> y robusteciendo mis habilidades de <b>Backend</b>.</li>
-        <li>⚡ <b>Mi filosofía:</b> Si lo puedes imaginar, lo puedes crear.</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif">
-      </div>
-    </td>
-  </tr>
-</table>
+Disfruto experimentar, aprender de los errores y revisar mis propias decisiones. Soy detallista con lo que construyo; no me basta con que algo funcione si todavía hay oportunidades para hacerlo más claro, mantenible o útil.
 
-<br>
+### Cómo pienso y construyo
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Tech%20Arsenal&fontSize=30&fontColor=ffffff&fontAlign=50"/>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/process-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/process-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/process-desktop-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/process-desktop-light.svg">
+  <img src="./assets/process-desktop-light.svg" alt="Mi proceso de desarrollo: explorar, entender, diseñar, construir y mejorar. Un ciclo que se repite." width="100%">
+</picture>
 
-<div align="center">
-<br>
+Antes de escribir código, prefiero **entender el problema, definir el alcance y elegir un stack que tenga sentido**. Después, procuro mantener una arquitectura organizada, decisiones justificadas y espacio para probar e iterar. Para mí, desarrollar es también cuestionar lo que ya construí.
 
-<h3>💻 Lenguajes Principales</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-</p>
+### Con qué construyo
 
-<h3>⚛️ Frontend Power</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Astro.svg" alt="astro" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-</p>
+**Ecosistema principal**  
+`JavaScript` · `TypeScript` · `Node.js` · `React` · `Next.js` · `NestJS` · `Tailwind CSS`
 
-<h3>⚙️ Backend & DB</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-</p>
+**Otros entornos con los que he trabajado**
 
-<h3>🛠️ Herramientas</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="50" height="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 10px; margin: 3px;"/>
-</p>
+- **Web e interfaces:** HTML5, CSS, Sass/SCSS, Angular, Vue, Astro, Vite y Bootstrap.
+- **Backend y móvil:** Express, Java con Spring Boot, Python con Django/FastAPI, React Native y Kotlin.
+- **Datos e infraestructura:** PostgreSQL, MySQL, SQL Server, MongoDB, Supabase, Cloudflare, Vercel y Render.
+- **Diseño y colaboración:** Git y Figma.
 
-</div>
+No considero que todas las herramientas resuelvan los mismos problemas. Me interesa entender **cuándo utilizar cada una y por qué**.
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=GitHub%20Stats&fontSize=30&fontColor=ffffff&fontAlign=50"/>
+### Lo que estoy construyendo
+
+Trabajo en **proyectos tecnológicos de distintos sectores y contextos**: desde soluciones de gestión empresarial hasta plataformas digitales y prototipos orientados a simplificar procesos concretos.
+
+Parte de ese trabajo, como el desarrollo de sistemas internos de gestión, se mantiene en **repositorios privados**. Aquí comparto lo que puedo hacer público, junto con proyectos que reflejan mi aprendizaje y experimentación.
+
+También utilizo **ChatGPT, Codex y OpenCode** para acelerar tareas de desarrollo. Los veo como herramientas que requieren dirección: la planificación, las decisiones técnicas y la revisión del resultado siguen siendo fundamentales.
+
+### En qué quiero seguir mejorando
+
+Actualmente pongo especial atención en **arquitectura de software, testing y rendimiento**. Mi camino profesional apunta a adquirir experiencia mediante prácticas, crecer como desarrollador y freelancer y, con el tiempo, crear mi propia consultoría tecnológica.
+
+---
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=EdhuMS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdhuMS&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515" height="160" alt="languages graph" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdhuMS&theme=tokyonight&hide_border=true&background=151515" height="160" alt="streak graph" />
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-  <h3>📫 Conecta conmigo</h3>
-  
-  <a href="https://twitter.com/TU_USUARIO_TWITTER" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/fluency/96/twitter.png" alt="Twitter" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
-  </a>
-  
-  <a href="mailto:edhums10@gmail.com" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Gmail" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
-  </a>
-  
-  <a href="https://simplequicktools.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/fluency/96/domain.png" alt="Web" width="50" style="background-color: #f3f4f6; padding: 5px; border-radius: 15px;"/>
-  </a>
-
+  <p><strong>Siempre hay una mejor pregunta, otra perspectiva o una nueva forma de construir.</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/edhu-ms/">Conectemos en LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:edhums10@gmail.com">Escríbeme</a>
+  </p>
+  <sub>Edhu Macedo · Ingeniería de Sistemas e Informática · Perú</sub>
 </div>

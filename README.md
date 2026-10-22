@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy **Edhu Macedo**, estudiante de **Ingeniería de Sistemas e Informática**.  
 Me interesa **simplificar procesos, detectar oportunidades de mejora y construir soluciones tecnológicas que tengan sentido en la práctica**.
@@ -36,7 +36,7 @@ No me gusta dejar las cosas a medias: si algo puede mejorar, probablemente volve
 
 ---
 
-## 🧠 Cómo pienso y construyo
+## Cómo pienso y construyo
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/process-mobile-dark.svg">
@@ -51,7 +51,7 @@ Después, procuro trabajar con una base clara: **organización, mantenibilidad, 
 
 ---
 
-## ⚙️ Stack principal
+## Stack principal
 
 <div align="center">
 
@@ -91,7 +91,7 @@ Después, procuro trabajar con una base clara: **organización, mantenibilidad, 
 
 ---
 
-## 🚀 Lo que hago
+## Lo que hago
 
 - Desarrollo **soluciones tecnológicas para distintos sectores y contextos**.
 - Trabajo con enfoque en **arquitectura, organización del código y escalabilidad**.
@@ -100,7 +100,7 @@ Después, procuro trabajar con una base clara: **organización, mantenibilidad, 
 
 ---
 
-## 🤖 IA como herramienta de desarrollo
+## IA como herramienta de desarrollo
 
 Utilizo herramientas como **ChatGPT, Codex y OpenCode** para acelerar análisis, desarrollo y prototipado.
 
@@ -114,17 +114,17 @@ Para mí, lo importante sigue siendo:
 
 ---
 
-## 📈 En qué estoy enfocándome ahora
+## En qué estoy enfocándome ahora
 
-- 🏗️ **Arquitectura de software**
-- 🧪 **Testing**
-- ⚡ **Rendimiento y optimización**
-- 📱 **Desarrollo móvil**
-- 🧩 **Construcción de soluciones más mantenibles y escalables**
+- **Arquitectura de software**
+- **Testing**
+- **Rendimiento y optimización**
+- **Desarrollo móvil**
+- **Construcción de soluciones más mantenibles y escalables**
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -140,7 +140,7 @@ Para mí, lo importante sigue siendo:
 
 ---
 
-## 🎯 Hacia dónde voy
+## Hacia dónde voy
 
 Mi camino profesional es claro:
 
@@ -150,7 +150,7 @@ Quiero seguir creciendo como desarrollador, construyendo soluciones cada vez má
 
 ---
 
-## 📬 Conecta conmigo
+## Conecta conmigo
 
 <div align="center">
 

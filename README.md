@@ -56,15 +56,33 @@ No son solo tecnologías en una lista: son problemas que he intentado comprender
 
 ## Herramientas con las que trabajo
 
-| Área | Tecnologías y herramientas |
-| --- | --- |
-| **Web y frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
-| **Desarrollo móvil** | React Native / Expo; aprendiendo Kotlin y Android |
-| **Backend y datos** | Node.js, NestJS, PostgreSQL, Supabase |
-| **Diseño y calidad** | Figma, modelado de requisitos, Git/GitHub, pruebas funcionales |
-| **IA aplicada** | ChatGPT, Codex y otros agentes como apoyo para investigar, implementar y revisar |
+<div align="center">
 
-No pretendo dominar todas estas herramientas al mismo nivel. Me interesa escoger la que tenga sentido para cada problema y seguir desarrollando criterio técnico.
+**Web y frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=light" alt="React, Next.js, TypeScript, JavaScript y Tailwind CSS" />
+
+**Móvil · explorando Android**
+
+<img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio&theme=light" alt="React Native, Kotlin y Android Studio" />
+
+**Backend, datos y herramientas**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase,figma,git,github&theme=light" alt="Node.js, NestJS, PostgreSQL, Supabase, Figma, Git y GitHub" />
+
+</div>
+
+No domino todas estas tecnologías al mismo nivel. **React y el desarrollo web** son mi base; con **React Native y Kotlin** sigo ampliando mis conocimientos. Para diseñar soluciones también utilizo modelado de requisitos, pruebas funcionales y agentes de IA.
+
+## Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EdhuMS&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=004DD0&icon_color=004DD0&text_color=64748B&rank_icon=github" height="155" alt="Resumen de actividad pública de GitHub — dato externo" />
+</div>
+
+<sub>Indicador complementario de actividad pública, no una medida de habilidad o calidad del software. Si el servicio de estadísticas no responde, los proyectos anteriores siguen siendo la referencia principal.</sub>
+
+---
 
 ## En qué estoy trabajando
 

@@ -1,173 +1,83 @@
-<!-- Perfil: github.com/EdhuMS -->
-
+<!-- EDHU MS | Perfil personal · Identidad visual v2 -->
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" alt="Edhu Macedo - El límite de lo posible siempre merece una segunda pregunta." width="100%">
-</picture>
-
-<br>
-
-<a href="https://www.linkedin.com/in/edhu-ms/">
-  <img src="https://img.shields.io/badge/LinkedIn-Edhu%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:edhums10@gmail.com">
-  <img src="https://img.shields.io/badge/Correo-edhums10%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
-</a>
-<a href="https://github.com/EdhuMS?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositorios-GitHub-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
-</a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-edhu-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-edhu-light.svg">
+    <img src="./assets/hero-edhu-light.svg" width="100%" alt="EDHU MS · De la idea a una solución real">
+  </picture>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/edhu-ms-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/edhu-ms-logo-color.svg">
+    <img src="./assets/edhu-ms-logo-color.svg" width="165" alt="Monograma oficial EMS de EDHU MS">
+  </picture>
+  <br><br>
+  <a href="https://www.linkedin.com/in/edhu-ms/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-004DD0?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:edhums10@gmail.com"><img src="https://img.shields.io/badge/Correo-Escríbeme-101A27?style=flat-square&logo=gmail&logoColor=white" alt="Correo"></a>
+  <a href="https://github.com/EdhuMS?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Proyectos-004DD0?style=flat-square&logo=github&logoColor=white" alt="Proyectos"></a>
 </div>
 
----
+## ¡Hola! Soy Edhu 👋
 
-## Sobre mí
+Soy estudiante de **Ingeniería de Sistemas e Informática**. Me gusta entender cómo funciona un problema, encontrar oportunidades de mejora y diseñar soluciones que se utilicen de verdad.
 
-Soy **Edhu Macedo**, estudiante de **Ingeniería de Sistemas e Informática**.  
-Me interesa **simplificar procesos, detectar oportunidades de mejora y construir soluciones tecnológicas que tengan sentido en la práctica**.
+Disfruto especialmente la etapa que muchas veces ocurre **antes de escribir código**: conversar sobre necesidades, definir requisitos, explorar alternativas, organizar la arquitectura y pensar cómo comprobar que el resultado funciona.
 
-Disfruto cuestionar lo establecido, experimentar con nuevas herramientas y refinar lo que construyo.  
-No me gusta dejar las cosas a medias: si algo puede mejorar, probablemente volveré a revisarlo.
+Me interesan el **análisis de sistemas**, el **desarrollo web y móvil** y la **inteligencia artificial aplicada**. Todavía tengo muchísimo por aprender, y parte de lo que hago aquí es compartir ese camino con proyectos reales y decisiones que puedo explicar.
 
-> **“El límite de lo posible siempre merece una segunda pregunta.”**
+> **«El límite de lo posible siempre merece una segunda pregunta».**
 
----
+## Proyectos que me representan
+
+No son solo tecnologías en una lista: son problemas que he intentado comprender y resolver. Los estados que aparecen a continuación reflejan la documentación disponible, no una certificación independiente de producción.
+
+| Proyecto | Qué problema aborda | Mi enfoque |
+| --- | --- | --- |
+| **[Dhual Proformas](https://github.com/EdhuMS/dhual-proformas)** | Cotizaciones personalizadas para un negocio real, con experiencia web y Android. | Requisitos, flujo funcional, diseño y validación. README: MVP 1.0.0. |
+| **[Dhual Control](https://github.com/EdhuMS/dhual-control-android)** | Control interno de pedidos y saldos, con atención a permisos y seguridad. | Problema operativo, alcance y pruebas. Aplicación Android; validaciones de dispositivos pendientes según README. |
+| **[SDK SUNAT](https://github.com/EdhuMS/SDK-SUNAT)** | Componentes reutilizables para facturación electrónica peruana. | Investigación, arquitectura, reglas y pruebas. **Experimental; no afirmar autorización para emisión real.** |
+| **[Dhual Sport ERP](https://github.com/EdhuMS/dhual-sport-erp)** | Unificar procesos internos y operaciones empresariales. | Diseño de una solución de mayor alcance; desarrollo y aceptación por hitos. |
+
+*En estos proyectos utilizo herramientas de IA y, según el caso, trabajo con colaboradores. Procuro diferenciar el análisis, las decisiones, las implementaciones y las pruebas realizadas por cada parte.*
 
 ## Cómo pienso y construyo
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/process-mobile-dark.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/process-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/process-desktop-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/process-desktop-light.svg">
-  <img src="./assets/process-desktop-light.svg" alt="Proceso de trabajo: explorar, entender, diseñar, construir y mejorar." width="100%">
-</picture>
-
-Antes de programar, me gusta **entender el problema, definir el alcance y elegir el stack adecuado**.  
-Después, procuro trabajar con una base clara: **organización, mantenibilidad, escalabilidad y mejora continua**.
-
----
-
-## Stack principal
-
 <div align="center">
-
-### Lenguajes y tecnologías base
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python,kotlin" alt="Lenguajes" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,astro,vite,tailwind,bootstrap,sass" alt="Frontend" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,fastapi" alt="Backend" />
-</p>
-
-### Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react,kotlin" alt="Mobile" />
-</p>
-
-### Bases de datos
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Bases de datos" />
-  <img src="https://img.shields.io/badge/SQL%20Server-0f172a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/SQL-0891B2?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-</p>
-
-### Herramientas y despliegue
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,supabase,cloudflare,vercel,render" alt="Herramientas" />
-</p>
-
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/process-edhu-mobile-dark.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/process-edhu-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/process-edhu-desktop-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/process-edhu-desktop-light.svg">
+    <img src="./assets/process-edhu-desktop-light.svg" width="100%" alt="Explorar, entender, diseñar, construir y mejorar">
+  </picture>
 </div>
 
----
+**Explorar → Entender → Diseñar → Construir → Mejorar.** Mi parte favorita es pensar bien la solución y después ponerla a prueba. Un sistema no mejora simplemente por sumar funciones: a veces, mejorar significa quitar complejidad.
 
-## Lo que hago
+## Herramientas con las que trabajo
 
-- Desarrollo **soluciones tecnológicas para distintos sectores y contextos**.
-- Trabajo con enfoque en **arquitectura, organización del código y escalabilidad**.
-- Participo en proyectos donde el objetivo no es solo construir, sino también **mejorar procesos reales**.
-- Parte de mi trabajo se encuentra en **repositorios privados**, especialmente soluciones internas y sistemas de gestión.
+| Área | Tecnologías y herramientas |
+| --- | --- |
+| **Web y frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Desarrollo móvil** | React Native / Expo; aprendiendo Kotlin y Android |
+| **Backend y datos** | Node.js, NestJS, PostgreSQL, Supabase |
+| **Diseño y calidad** | Figma, modelado de requisitos, Git/GitHub, pruebas funcionales |
+| **IA aplicada** | ChatGPT, Codex y otros agentes como apoyo para investigar, implementar y revisar |
 
----
+No pretendo dominar todas estas herramientas al mismo nivel. Me interesa escoger la que tenga sentido para cada problema y seguir desarrollando criterio técnico.
 
-## IA como herramienta de desarrollo
+## En qué estoy trabajando
 
-Utilizo herramientas como **ChatGPT, Codex y OpenCode** para acelerar análisis, desarrollo y prototipado.
+- Fortalecerme en **análisis de sistemas e ingeniería de requisitos**.
+- Profundizar en **aplicaciones móviles**, especialmente Android.
+- Mejorar **arquitectura, seguridad y validación** de soluciones asistidas por IA.
+- Construir un **portafolio web** con casos de estudio verificables.
+- Conectar con la comunidad tecnológica y encontrar oportunidades de **prácticas profesionales**.
 
-Pero no las veo como sustituto del criterio técnico.  
-Para mí, lo importante sigue siendo:
+## Conversemos
 
-- definir bien el problema,
-- tomar buenas decisiones de arquitectura,
-- revisar el resultado,
-- y mantener control sobre la solución final.
+Si te interesan el desarrollo de software, los proyectos que resuelven problemas reales o quieres intercambiar aprendizajes, estaré encantado de conversar.
 
----
+**[LinkedIn](https://www.linkedin.com/in/edhu-ms/)** · **[Correo](mailto:edhums10@gmail.com)** · **[Repositorios](https://github.com/EdhuMS?tab=repositories)**
 
-## En qué estoy enfocándome ahora
-
-- **Arquitectura de software**
-- **Testing**
-- **Rendimiento y optimización**
-- **Desarrollo móvil**
-- **Construcción de soluciones más mantenibles y escalables**
-
----
-
-## Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EdhuMS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdhuMS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top Langs" />
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EdhuMS&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak" />
-</div>
-
----
-
-## Hacia dónde voy
-
-Mi camino profesional es claro:
-
-**prácticas profesionales → desarrollo / freelancing → consultoría tecnológica propia**
-
-Quiero seguir creciendo como desarrollador, construyendo soluciones cada vez más sólidas, útiles y mejor pensadas.
-
----
-
-## Conecta conmigo
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/edhu-ms/">
-  <img src="https://img.shields.io/badge/LinkedIn-Edhu%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:edhums10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-edhums10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://github.com/EdhuMS?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <sub><strong>Edhu Macedo</strong> · Ingeniería de Sistemas e Informática · Perú</sub>
-</div>
+<div align="center"><sub>EDHU MS · Curiosidad, criterio y mejora continua · Perú</sub></div>

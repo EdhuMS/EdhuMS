@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="305" viewBox="0 0 1080 305" role="img" aria-label="EDHU MS — De la idea a una solución real">
+<rect width="1080" height="305" rx="25" fill="#F8FAFC"/>
+<rect x="42" y="43" width="7" height="28" rx="3.5" fill="#004DD0"/>
+<text x="66" y="64" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="4" font-weight="700" fill="#004DD0">EDHU MS  /  SOFTWARE &amp; SOLUTIONS</text>
+<text x="53" y="146" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="750" fill="#101A27">De la idea a una</text>
+<text x="53" y="205" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="750" fill="#004DD0">solución real.</text>
+<line x1="53" y1="230" x2="1020" y2="230" stroke="#DCE5F0" stroke-width="2"/>
+<text x="53" y="263" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#475569">Análisis de sistemas  ·  Desarrollo web y móvil  ·  IA aplicada</text>
+<path d="M786 76h184M786 101h142M786 126h184" stroke="#DCE5F0" stroke-width="4" stroke-linecap="round"/>
+<rect x="846" y="155" width="122" height="42" rx="14" fill="#E5EDFB"/>
+<text x="907" y="181" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#004DD0">BUILD / TEST</text>
+</svg>

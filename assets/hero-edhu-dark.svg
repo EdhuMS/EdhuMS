@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="305" viewBox="0 0 1080 305" role="img" aria-label="EDHU MS — De la idea a una solución real"><style>
+@keyframes accentIn {from {opacity: .35; transform: translateX(-10px);} to {opacity: 1; transform: translateX(0);}}
+@keyframes lineIn {from {stroke-dashoffset: 967;} to {stroke-dashoffset: 0;}}
+.brand-tag {animation: accentIn 1s ease-out both;}
+.brand-rule {stroke-dasharray: 967; animation: lineIn 1.8s ease-out both;}
+@media (prefers-reduced-motion: reduce) {.brand-tag,.brand-rule {animation: none;}}
+</style>
+<rect width="1080" height="305" rx="25" fill="#101A27"/>
+<rect class="brand-tag" x="42" y="43" width="7" height="28" rx="3.5" fill="#71A3FF"/>
+<text x="66" y="64" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="4" font-weight="700" fill="#71A3FF">EDHU MS  /  SOFTWARE &amp; SOLUTIONS</text>
+<text x="53" y="146" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="750" fill="#F8FAFC">De la idea a una</text>
+<text x="53" y="205" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="750" fill="#71A3FF">solución real.</text>
+<line class="brand-rule" x1="53" y1="230" x2="1020" y2="230" stroke="#344255" stroke-width="2"/>
+<text x="53" y="263" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#CAD5E5">Análisis de sistemas  ·  Desarrollo web y móvil  ·  IA aplicada</text>
+<path d="M786 76h184M786 101h142M786 126h184" stroke="#344255" stroke-width="4" stroke-linecap="round"/>
+<rect x="846" y="155" width="122" height="42" rx="14" fill="#1B2F4C"/>
+<text x="907" y="181" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#71A3FF">BUILD / TEST</text>
+</svg>

@@ -33,10 +33,10 @@ No son solo tecnologías en una lista: son problemas que he intentado comprender
 
 | Proyecto | Qué problema aborda | Mi enfoque |
 | --- | --- | --- |
-| **[Dhual Proformas](https://github.com/EdhuMS/dhual-proformas)** | Cotizaciones personalizadas para un negocio real, con experiencia web y Android. | Requisitos, flujo funcional, diseño y validación. README: MVP 1.0.0. |
-| **[Dhual Control](https://github.com/EdhuMS/dhual-control-android)** | Control interno de pedidos y saldos, con atención a permisos y seguridad. | Problema operativo, alcance y pruebas. Aplicación Android; validaciones de dispositivos pendientes según README. |
-| **[SDK SUNAT](https://github.com/EdhuMS/SDK-SUNAT)** | Componentes reutilizables para facturación electrónica peruana. | Investigación, arquitectura, reglas y pruebas. **Experimental; no afirmar autorización para emisión real.** |
-| **[Dhual Sport ERP](https://github.com/EdhuMS/dhual-sport-erp)** | Unificar procesos internos y operaciones empresariales. | Diseño de una solución de mayor alcance; desarrollo y aceptación por hitos. |
+| **Dhual Proformas** (repositorio privado) | Cotizaciones personalizadas para un negocio real, con experiencia web y Android. | Requisitos, flujo funcional, diseño y validación. README: MVP 1.0.0. |
+| **Dhual Control** (repositorio privado) | Control interno de pedidos y saldos, con atención a permisos y seguridad. | Problema operativo, alcance y pruebas. Aplicación Android; validaciones de dispositivos pendientes según README. |
+| **SDK SUNAT** (repositorio privado) | Componentes reutilizables para facturación electrónica peruana. | Investigación, arquitectura, reglas y pruebas. **Experimental; no afirmar autorización para emisión real.** |
+| **Dhual Sport ERP** (repositorio privado) | Unificar procesos internos y operaciones empresariales. | Diseño de una solución de mayor alcance; desarrollo y aceptación por hitos. |
 
 *En estos proyectos utilizo herramientas de IA y, según el caso, trabajo con colaboradores. Procuro diferenciar el análisis, las decisiones, las implementaciones y las pruebas realizadas por cada parte.*
 
@@ -77,10 +77,10 @@ No domino todas estas tecnologías al mismo nivel. **React y el desarrollo web**
 ## Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdhuMS&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=004DD0&icon_color=004DD0&text_color=64748B&rank_icon=github" height="155" alt="Resumen de actividad pública de GitHub — dato externo" />
+  <a href="https://github.com/EdhuMS?tab=repositories"><img src="./assets/github-activity-snapshot.svg" width="100%" alt="11 repositorios públicos verificados el 16 de noviembre de 2026; consultar GitHub para los datos actuales"></a>
 </div>
 
-<sub>Indicador complementario de actividad pública, no una medida de habilidad o calidad del software. Si el servicio de estadísticas no responde, los proyectos anteriores siguen siendo la referencia principal.</sub>
+*La tarjeta es una fotografía de los repositorios públicos al 16/11/2026, no una cifra en tiempo real. Para actividad y contribuciones actualizadas, visita [mi perfil de GitHub](https://github.com/EdhuMS). Algunos proyectos destacados son internos y sus repositorios no son públicos.*
 
 ---
 

@@ -29,6 +29,8 @@ Me interesan el **análisis de sistemas**, el **desarrollo web y móvil** y la *
 
 ## Proyectos que me representan
 
+[Ver mi portafolio personal](https://edhu-ms-portafolio.vercel.app/)
+
 No son solo tecnologías en una lista: son problemas que he intentado comprender y resolver. Los estados que aparecen a continuación reflejan la documentación disponible, no una certificación independiente de producción.
 
 | Proyecto | Qué problema aborda | Mi enfoque |

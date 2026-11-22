@@ -52,7 +52,10 @@ También comparto herramientas y metodologías que pueden reutilizar otros desar
 
 ## Licencias y recursos de marca
 
-Cada repositorio público tiene su propia política de derechos. No debe suponerse que todos están publicados bajo MIT por aparecer en mi perfil. Los recursos visuales de la marca **EDHU MS** (logos, ilustraciones, composiciones e identidad) no quedan autorizados para reutilización mediante la licencia de otros repositorios. Consulta los avisos de atribución de cada proyecto antes de reproducir código, imágenes o contenido.
+El código original y la documentación técnica de este repositorio se distribuyen bajo la **[licencia MIT](LICENSE)**, sujeto al alcance descrito en [Derechos de los recursos visuales y de marca](ASSETS-LICENSE.md). **La licencia MIT no incluye los logotipos, monogramas, banners y elementos visuales identificativos de EDHU MS / EMS ni derechos sobre marcas de terceros.**
+
+Cada repositorio público tiene su propia licencia; no se deben aplicar los términos de uno a otro sin comprobarlo.
+
 
 ## Cómo pienso y construyo
 

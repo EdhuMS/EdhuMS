@@ -1,11 +1,15 @@
-# Derechos de los recursos visuales y de marca / Brand assets
+# Derechos de autor y recursos de marca / Copyright and brand assets
 
-El código original y los documentos técnicos de este repositorio se ofrecen bajo la [licencia MIT](LICENSE), salvo que un archivo indique expresamente otros términos.
+**© 2026 EdhuMS. Derechos reservados sobre el contenido original del perfil.**
 
-**Exclusiones expresas:** los nombres y signos distintivos **EDHU MS / EMS**, logotipos, monogramas, identidad gráfica, banners, imágenes y composiciones de marca incluidos en `assets/` u otras rutas no se ofrecen bajo la licencia MIT del código. Se reservan los derechos que correspondan a sus titulares. Su presencia pública sirve para mostrar la identidad del perfil, **no** para autorizar el uso como marca, la representación de afiliación, o la reproducción comercial de elementos gráficos.
+Este repositorio funciona como perfil y portafolio profesional. Su contenido original —texto, diseños, ilustraciones, fotografías, gráficos y otros materiales— **no tiene una licencia abierta general**. La posibilidad de consultar estos archivos públicamente en GitHub no equivale a autorización general para copiarlos, modificarlos, redistribuirlos o comercializarlos.
 
-Los logos y marcas de terceros, y las obras que puedan contener recursos de terceros, conservan los derechos de sus respectivos titulares. Una licencia open source del software no altera esas condiciones.
+Los signos distintivos, logotipos, monogramas, banners, composiciones y elementos de identidad visual **EDHU MS / EMS**, incluidos los disponibles en `assets/`, no se ofrecen para su reutilización por terceros sin autorización del titular. Tampoco se concede autorización para sugerir afiliación o respaldo de la marca.
 
-For English-speaking visitors: **MIT covers the original software/code and technical documentation, not EDHU MS/EMS brand assets, logos, graphics or third-party materials.** No endorsement or trademark license is granted.
+Los recursos, marcas y obras de otras personas conservan sus respectivos derechos. Se aplican los permisos propios de la plataforma GitHub y las excepciones previstas en la ley, cuando correspondan.
 
-Para solicitar autorización sobre un recurso visual, contacta mediante los enlaces públicos del perfil.
+**English:** This repository is a public personal profile and portfolio, **not an open-source licensed package**. Original content and EDHU MS / EMS brand assets are reserved; public visibility does not grant general rights to reproduce, adapt, distribute or commercially exploit them. Third-party rights remain unaffected. Individual software repositories linked here may be licensed separately.
+
+**Nota histórica:** el archivo MIT incluido anteriormente se retiró de la rama actual por no reflejar la política prevista para este perfil. Ese cambio no revoca automáticamente permisos que ya se hubieran otorgado bajo la licencia anterior sobre las versiones distribuidas entonces.
+
+Si necesitas autorización sobre un recurso del perfil, utiliza los medios de contacto publicados en el README.

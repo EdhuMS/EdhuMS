@@ -42,6 +42,18 @@ No son solo tecnologías en una lista: son problemas que he intentado comprender
 
 *En estos proyectos utilizo herramientas de IA y, según el caso, trabajo con colaboradores. Procuro diferenciar el análisis, las decisiones, las implementaciones y las pruebas realizadas por cada parte.*
 
+## Herramientas de código abierto
+
+También comparto herramientas y metodologías que pueden reutilizar otros desarrolladores:
+
+- **[AI Project Documentation Skill](https://github.com/EdhuMS/ai-project-documentation-skill)** — Skill open source (MIT) para documentación técnica portable y handoffs verificables entre agentes de IA. Disponible en [español](https://github.com/EdhuMS/ai-project-documentation-skill/blob/main/README.es.md) e inglés.
+
+*El licenciamiento de esta skill no se extiende automáticamente a mis demás proyectos ni a mi identidad visual.*
+
+## Licencias y recursos de marca
+
+Cada repositorio público tiene su propia política de derechos. No debe suponerse que todos están publicados bajo MIT por aparecer en mi perfil. Los recursos visuales de la marca **EDHU MS** (logos, ilustraciones, composiciones e identidad) no quedan autorizados para reutilización mediante la licencia de otros repositorios. Consulta los avisos de atribución de cada proyecto antes de reproducir código, imágenes o contenido.
+
 ## Cómo pienso y construyo
 
 <div align="center">

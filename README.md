@@ -50,12 +50,13 @@ También comparto herramientas y metodologías que pueden reutilizar otros desar
 
 *El licenciamiento de esta skill no se extiende automáticamente a mis demás proyectos ni a mi identidad visual.*
 
-## Licencias y recursos de marca
+## Derechos de autor e identidad de marca
 
-El código original y la documentación técnica de este repositorio se distribuyen bajo la **[licencia MIT](LICENSE)**, sujeto al alcance descrito en [Derechos de los recursos visuales y de marca](ASSETS-LICENSE.md). **La licencia MIT no incluye los logotipos, monogramas, banners y elementos visuales identificativos de EDHU MS / EMS ni derechos sobre marcas de terceros.**
+**© 2026 EdhuMS. Derechos reservados sobre el contenido original de este perfil.** Este repositorio se publica como presentación profesional y portafolio; **no se distribuye actualmente bajo MIT ni otra licencia abierta general**.
 
-Cada repositorio público tiene su propia licencia; no se deben aplicar los términos de uno a otro sin comprobarlo.
+La lectura pública de este perfil no supone permiso general para copiar, adaptar, redistribuir o explotar comercialmente su contenido. La identidad visual **EDHU MS / EMS**, incluidos logos, monogramas, composiciones y banners, se trata específicamente en [Derechos de autor y recursos de marca](ASSETS-LICENSE.md).
 
+Los repositorios de software enlazados desde este perfil pueden tener **licencias independientes** (por ejemplo, MIT), que deberán consultarse en cada proyecto. Los signos y recursos de terceros mantienen los derechos de sus titulares.
 
 ## Cómo pienso y construyo
 
